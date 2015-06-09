@@ -1,0 +1,23 @@
+[
+  {
+    "title": "The Martian",
+    "storyline": "During a manned mission to Mars, Astronaut Mark Watney (Matt Damon) is presumed dead after a fierce storm and left behind by his crew",
+    "poster_image_url": "http://s3.foxfilm.com/foxmovies/production/films/104/images/posters/407-film-page-thumbnail.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=Ue4PCI0NamI",
+    "release_year": "2015"
+  },
+  {
+    "title": "Gone Girl",
+    "storyline": "On the occasion of his fifth wedding anniversary, Nick Dunne (Ben Affleck) reports that his beautiful wife, Amy (Rosamund Pike), has gone missing.",
+    "poster_image_url": "http://upload.wikimedia.org/wikipedia/en/0/05/Gone_Girl_Poster.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=esGn-xKFZdU",
+    "release_year": "2014"
+  },
+  {
+    "title": "Despicable Me 2",
+    "storyline": "A mysterious vehicle using a huge magnet steals a highly potent mutagen known as PX-41 from a secret laboratory in the Arctic Circle. The Anti-Villain League (AVL) tries to recruit former supervillain, Gru, to find who stole the mutagen. Gru refuses to help, claiming he is a legitimate businessman (of jams and jellies) now as well as the father of Margo, Edith, and Agnes.",
+    "poster_image_url": "http://upload.wikimedia.org/wikipedia/en/2/29/Despicable_Me_2_poster.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=HXWXxdTkJyw",
+    "release_year": "2013"
+  }
+]
