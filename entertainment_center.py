@@ -11,7 +11,10 @@ with open('films.json') as films_json:
 
     # Loop over JSON, creating array of Movie instances
     for film in raw_films:
-        movie = media.Movie(film['title'], film['storyline'], film['poster_image_url'], film['trailer_youtube_url'], film['release_year'])
+        movie = media.Movie(film['title'], film['storyline'],
+                            film['poster_image_url'],
+                            film['trailer_youtube_url'],
+                            film['release_year'])
         films.append(movie)
 
 
